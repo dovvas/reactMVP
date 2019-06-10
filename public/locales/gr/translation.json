@@ -1,0 +1,18 @@
+{ 
+  "mainTitle": "Juno",
+  "MainSubtitle": "Διαχειριστικό",
+  "menu1": "Τί είναι αυτό?",
+  "menu2": "Κόστος",
+  "menu3": "Χώρος Επίδειξης",
+  "menu4": "Γιατί?",
+  "menu5": "Παραγγελία",
+  "menu6": "Ειδοποιήσεις",
+  "menu7": "Εικονίδια",
+  "menu8": "Πίνακας Ελέγχου",
+  "lang_EN": "ΑΓΓ",
+  "lang_GR": "ΕΛ",
+  "title": "Ζείς μονάχα 2 φορές",
+  "Datatable": "Πίνακας δεδομένων",
+  "lorem": "Lorem ipsum dolor sit amet, ",
+  "loremText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae nulla consectetur, aliquet nibh sed, porttitor turpis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin molestie molestie imperdiet. Integer nisi nibh, varius ut semper eget, scelerisque sed purus. Nullam non cursus nisl."
+}
